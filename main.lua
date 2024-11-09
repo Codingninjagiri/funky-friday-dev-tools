@@ -49,7 +49,7 @@ Tab:AddButton({
 Tab:AddButton({
 	Name = "Winstreak Farm Right",
 	Callback = function()
-       	loadstring(game:HttpGet("https://pastebin.com/raw/bLDsifeA",true))()
+       	loadstring(game:HttpGet("https://raw.githubusercontent.com/Codingninjagiri/funky-friday-dev-tools/refs/heads/main/winstreakfarmright.lua",true))()
   	end    
 })
 
