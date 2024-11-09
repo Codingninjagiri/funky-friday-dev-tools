@@ -42,7 +42,7 @@ Tab:AddLabel("2 accounts needed for winstreak farm")
 Tab:AddButton({
 	Name = "Winstreak Farm Left",
 	Callback = function()
-       	loadstring(game:HttpGet("https://pastebin.com/raw/nX41rkE6",true))()
+       	loadstring(game:HttpGet("https://raw.githubusercontent.com/Codingninjagiri/funky-friday-dev-tools/refs/heads/main/winstreakfarmleft.lua",true))()
   	end    
 })
 
