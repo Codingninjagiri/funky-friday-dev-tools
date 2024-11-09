@@ -63,7 +63,7 @@ Tab:AddButton({
 Tab:AddButton({
 	Name = "Autoplayer (wally's)",
 	Callback = function()
-       	loadstring(game:HttpGet("https://raw.githubusercontent.com/wally-rblx/funky-friday-autoplay/main/main.lua",true))()
+       	loadstring(game:HttpGet("https://raw.githubusercontent.com/Codingninjagiri/funky-friday-dev-tools/refs/heads/main/autoplayer.lua",true))()
   	end    
 })
  
