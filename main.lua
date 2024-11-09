@@ -56,7 +56,7 @@ Tab:AddButton({
 Tab:AddButton({
 	Name = "Points Farm",
 	Callback = function()
-       	loadstring(game:HttpGet("https://pastebin.com/raw/7xrgtv6z",true))()
+       	loadstring(game:HttpGet("https://raw.githubusercontent.com/Codingninjagiri/funky-friday-dev-tools/refs/heads/main/pointsfarm.lua",true))()
   	end    
 })
 
