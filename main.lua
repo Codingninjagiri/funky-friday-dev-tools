@@ -9,7 +9,7 @@ game:GetService("Players").LocalPlayer.Idled:connect(function()
    vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
 end)
 
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/Codingninjagiri/funky-friday-dev-tools/refs/heads/main/library.lua')))()
  
 local Window = OrionLib:MakeWindow({Name = "Funky Friday Dev Tools"})
  
