@@ -10,7 +10,12 @@ local args = {
     [1] = {
         [1] = "Server",
         [2] = "StageManager",
-        [3] = "Select"
+        [3] = "SetOption"
+    },
+    [2] = {
+        [1] = "SongRate",
+        [2] = 0.99999999995
+
     },
     [2] = {
         [1] = "VSNonsense_Nonsense",
